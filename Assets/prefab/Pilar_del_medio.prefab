@@ -48,6 +48,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -1586403714952193114, guid: 35aca045189758846829e1cff6b8992d, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 1444341612409513813, guid: dee26e19349175c41bda179b5c6b98fb, type: 3}
     - target: {fileID: 919132149155446097, guid: 35aca045189758846829e1cff6b8992d, type: 3}
       propertyPath: m_Name
       value: Pilar_del_medio
