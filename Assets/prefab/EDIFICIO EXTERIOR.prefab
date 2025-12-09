@@ -56,6 +56,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: EDIFICIO EXTERIOR
       objectReference: {fileID: 0}
+    - target: {fileID: 2929640277652407947, guid: 0ebbabefd4da3d94cb2e4570bdcf6a7d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7fac15a1b490d974eb7cac6106c2dff4, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
