@@ -1036,7 +1036,11 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       value: -200
+=======
+      value: 2023
+>>>>>>> Stashed changes
 =======
       value: 2023
 >>>>>>> Stashed changes
@@ -1052,7 +1056,11 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       value: -1195
+=======
+      value: 2744
+>>>>>>> Stashed changes
 =======
       value: 2744
 >>>>>>> Stashed changes
