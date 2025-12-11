@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 1
+  m_Name: 1.1
   m_Shader: {fileID: -6465566751694194690, guid: 563560271c3689f498fa5ede2913b4f6, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -69,19 +69,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _albedo:
-        m_Texture: {fileID: 2800000, guid: a250a5e548dff7440b04d6fc74760e50, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7cf5e4ebf7b5ce343b1a47258f4a5448, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _emission:
-        m_Texture: {fileID: 2800000, guid: cf65a2353e08de244a1cbab8a94573a2, type: 3}
+        m_Texture: {fileID: 2800000, guid: a9d0802780d5b764bb00b1ecfe9f6b79, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _metallic:
-        m_Texture: {fileID: 2800000, guid: 55aecfc4f70325148adedd000afff694, type: 3}
+        m_Texture: {fileID: 2800000, guid: 282a9c83df3394640914c0270348a81d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _normal:
-        m_Texture: {fileID: 2800000, guid: 8b9fa106c5ee10e4bb814f40ba061151, type: 3}
+        m_Texture: {fileID: 2800000, guid: d7b3f8e082af8e94086aba25f2395653, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -135,11 +135,11 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Emissionlev2: {r: 0, g: 0, b: 0, a: 0}
+    - _Emissionlev2: {r: 2.143547, g: 2.143547, b: 2.143547, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &7050279793762205852
+--- !u!114 &8054579580289804963
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
