@@ -69,11 +69,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _albedo:
-        m_Texture: {fileID: 2800000, guid: 02eab83a6fad3ec4cb687e6ce7389a38, type: 3}
+        m_Texture: {fileID: 2800000, guid: 461361655fa1a314bbe1cd540b45fbc1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _emission:
-        m_Texture: {fileID: 2800000, guid: a5f7f990d683b974f9ecd9b4f7a817fe, type: 3}
+        m_Texture: {fileID: 2800000, guid: afe986df0f28947489a41afb5ed44906, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _metallic:
@@ -135,7 +135,7 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Emissionlev2: {r: 0, g: 0, b: 0, a: 0}
+    - _Emissionlev2: {r: 58.038124, g: 58.038124, b: 58.038124, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
